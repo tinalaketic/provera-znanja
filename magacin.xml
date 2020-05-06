@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<!DOCTYPE Magacin SYSTEM "magacin.dtd">
 <Magacin>
   <Artikal>
     <Naziv sifra="01">Majica</Naziv>
@@ -50,7 +51,7 @@
       <Mesec>4</Mesec>
       <Godina>2020</Godina>
     </DatumIzrade>
-    <Cena tip="din">3000</Cena>
+    <Cena tip="rsd">3000</Cena>
     <KopmanijaProdavca>
       <Ime>Desigual</Ime>
       <Adresa>Svetozara Papica 34</Adresa>
