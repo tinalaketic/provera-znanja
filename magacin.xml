@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<Magacin>
+  <Artikal>
+    <Naziv sifra="01">Majica</Naziv>
+    <DatumIzrade>
+      <Dan>5</Dan>
+      <Mesec>2</Mesec>
+      <Godina>2020</Godina>
+    </DatumIzrade>
+    <Cena tip="eur">23</Cena>
+    <KopmanijaProdavca>
+      <Ime>Terranova</Ime>
+      <Adresa>Bulevar Mihajla Pupina 25</Adresa>
+    </KopmanijaProdavca>
+    <Email tip="sluzbeni">terranova@gmail.com</Email>
+  </Artikal>
+  <Artikal>
+    <Naziv sifra="02">Pantalone</Naziv>
+    <DatumIzrade>
+      <Dan>9</Dan>
+      <Mesec>1</Mesec>
+      <Godina>2020</Godina>
+    </DatumIzrade>
+    <Cena>3500</Cena>
+    <KopmanijaProdavca>
+      <Ime>Bershka</Ime>
+      <Adresa>Knez Mihailova 7</Adresa>
+      <Adresa>Vojvodjanska 33</Adresa>
+    </KopmanijaProdavca>
+    <Email tip="sluzbeni">bershka@gmail.com</Email>
+  </Artikal>
+  <Artikal>
+    <Naziv sifra="03">Patike</Naziv>
+    <DatumIzrade>
+      <Dan>29</Dan>
+      <Mesec>2</Mesec>
+      <Godina>2020</Godina>
+    </DatumIzrade>
+    <Cena tip="eur">70</Cena>
+    <KopmanijaProdavca>
+      <Ime>Nike</Ime>
+      <Adresa>Beogradska 157</Adresa>
+    </KopmanijaProdavca>
+    <Email tip="privatni">nikepriv@gmail.com</Email>
+  </Artikal>
+    <Artikal>
+    <Naziv sifra="04">Haljina</Naziv>
+    <DatumIzrade>
+      <Dan>8</Dan>
+      <Mesec>4</Mesec>
+      <Godina>2020</Godina>
+    </DatumIzrade>
+    <Cena tip="din">3000</Cena>
+    <KopmanijaProdavca>
+      <Ime>Desigual</Ime>
+      <Adresa>Svetozara Papica 34</Adresa>
+    </KopmanijaProdavca>
+    <Email tip="privatni">despriv@gmail.com</Email>
+  </Artikal>
+</Magacin>
