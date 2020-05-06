@@ -2,7 +2,7 @@
 <!DOCTYPE Magacin SYSTEM "magacin.dtd">
 <Magacin xmlns="http://www.w3schools.com"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://www.w3schools.com magacin.xsd">>
+         xsi:schemaLocation="http://www.w3schools.com magacin.xsd">
   <Artikal>
     <Naziv sifra="01">Majica</Naziv>
     <DatumIzrade>
